@@ -1,0 +1,16 @@
+ #tab_navigation, #header h6, #header #course_tabs, #header .buttons, .tools, .return, #toolbar, #subnav, .next_link {display:none;}
+* {margin-left:0;padding-left:0;}
+td#content_cell {width:620px;}
+#header {background:url("#") #fff;height:auto;padding:10px 100px 0px;}
+#header.history{background-image:url("#")}
+#header h1 {color:#000;}
+#content {margin-bottom:0;}
+body {background:url("#") #fff;}
+div.letter425 img,
+div.letter650 img {display:none;}
+a.live {display:none;}
+div.reader { display:none; }
+span.printURL {
+	display: block;
+	font-style:normal;
+}
